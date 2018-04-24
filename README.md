@@ -19,3 +19,5 @@ Hello
 # GOD IS HERE
 
 # Humans are loved by GOD
+
+# Git stash model
